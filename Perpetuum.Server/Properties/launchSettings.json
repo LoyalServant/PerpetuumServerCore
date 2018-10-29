@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Perpetuum.Server": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\PerpetuumServer\\datacore"
+    }
+  }
+}
